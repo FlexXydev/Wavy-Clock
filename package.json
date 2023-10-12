@@ -1,0 +1,11 @@
+{
+  "name": "wavy-clock",
+  "version": "1.0.0",
+  "description": "We can see on this picture that there is a man who is climbing a montain.\r We can see that for him that looks like that is easy.\r He is not scared about climbing this rock without protections.\r In the background of the picture a forest trees and a rever.\r The mountains are very high, so it's hard to get up from here.\r He is crazy of doing this without protection.\r He can fall from really high, he could have died for doing this.\r This is a suicidal thing.\r People can respect him for what he do.\r He says that is not that hard.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
