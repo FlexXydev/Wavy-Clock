@@ -1,2 +1,3 @@
-# A clock with colors and really cools features
-# Wavy-Clock
+Thursday, October 12th 2023
+
+This document is a photograph of a man climbing on a tall montain. The climer does not have a rope ; he only has a pocket of chlak. He could have die and fall, it seems dangerous. We see credits for the photograph, so it is probably real. In the background we can see a forest with many trees. The climber is probably talented because he is not afraid of falling. The text it is a classic and historic route, and he is not the first to climb it. He is paying his respect to other climbers. We understand that soloing is climbingwithout equipement or belayer.
